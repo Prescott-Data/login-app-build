@@ -1,0 +1,27 @@
+{
+  "app_hub_id": "88723e2b-aec4-4051-87a5-12e06e9446ae",
+  "appType": "APP",
+  "short_name": "login",
+  "name": "Login",
+  "description": "Core app for the login page of Savannah DMS",
+  "version": "100.1.14",
+  "core_app": true,
+  "launch_path": "index.html",
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "icons": {
+    "48": "dhis2-app-icon.png"
+  },
+  "developer": {
+    "name": "Alan N"
+  },
+  "manifest_generated_at": "Thu Nov 07 2024 15:22:31 GMT+0300 (East Africa Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
+}

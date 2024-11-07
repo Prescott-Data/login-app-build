@@ -1,0 +1,16 @@
+{
+  "id": "88723e2b-aec4-4051-87a5-12e06e9446ae",
+  "type": "login_app",
+  "name": "login",
+  "title": "Login",
+  "description": "Core app for the login page of Savannah DMS",
+  "coreApp": true,
+  "minDHIS2Version": "2.41",
+  "version": "100.1.14",
+  "author": {
+    "name": "Alan N"
+  },
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
