@@ -3,8 +3,8 @@
   "appType": "APP",
   "short_name": "login",
   "name": "Login",
-  "description": "Core app for the login page of Savannah DMS",
-  "version": "100.1.14",
+  "description": "Core app for the login page of Corelytics",
+  "version": "1.0.0",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -19,7 +19,7 @@
   "developer": {
     "name": "Alan N"
   },
-  "manifest_generated_at": "Wed Nov 13 2024 12:13:10 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed Nov 20 2024 09:12:40 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",

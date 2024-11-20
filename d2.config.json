@@ -3,10 +3,10 @@
   "type": "login_app",
   "name": "login",
   "title": "Login",
-  "description": "Core app for the login page of Savannah DMS",
+  "description": "Core app for the login page of Corelytics",
   "coreApp": true,
   "minDHIS2Version": "2.41",
-  "version": "100.1.14",
+  "version": "1.0.0",
   "author": {
     "name": "Alan N"
   },
