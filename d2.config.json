@@ -3,7 +3,7 @@
   "type": "login_app",
   "name": "login",
   "title": "Login",
-  "description": "Core app for the login page of Corelytics",
+  "description": "Core app for the login page of SIMS",
   "coreApp": true,
   "minDHIS2Version": "2.41",
   "version": "1.0.0",

@@ -3,7 +3,7 @@
   "appType": "APP",
   "short_name": "login",
   "name": "Login",
-  "description": "Core app for the login page of Corelytics",
+  "description": "Core app for the login page of SIMS",
   "version": "1.0.0",
   "core_app": true,
   "launch_path": "index.html",
@@ -19,7 +19,7 @@
   "developer": {
     "name": "Alan N"
   },
-  "manifest_generated_at": "Mon Mar 24 2025 09:12:55 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Wed Mar 26 2025 10:06:47 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",

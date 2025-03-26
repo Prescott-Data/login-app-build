@@ -1,7 +1,7 @@
 {
   "short_name": "Login",
   "name": "Login",
-  "description": "Core app for the login page of Corelytics",
+  "description": "Core app for the login page of SIMS",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
